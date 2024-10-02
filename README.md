@@ -1,0 +1,2 @@
+-- The **GIF_Scratch** approach leverages a **pipeline** implementing pretrained vision encoder & text encoder and finally **custom frame selectors & lstms** to capture temporal features of the captured video & question-answer encodings.
+-- The **GIF_FineTune** approach uses the **qwen vision language model** which does end to end to video QA tasks & fine tuned using **Lora**.
